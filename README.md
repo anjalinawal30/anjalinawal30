@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anjalinawal30 Anjali Nawal
+- 👋 Hi, Anjali Nawal
 - 👀 I’m looking forward to add here different projects
-- 🌱 I’m currently learning python - redux - UI/UX
-- 💞️ I’m looking to collobrate 
+- 🌱 I’m currently learning python, java, azure
+- 💞️ Corporate Majdoor
 - 📫 How to reach me - here is my linkedin url https://www.linkedin.com/in/anjali-nawal
 
 <!---
